@@ -9,9 +9,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&label=&color=0077B5&logo=linkedin&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&label=&color=FF0000&logo=youtube&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&label=&color=1DA1F2&logo=twitter&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/ilorioluwole-dev/"><img src="https://img.shields.io/static/v1?message=LinkedIn&label=&color=0077B5&logo=linkedin&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="https://x.com/heisdadev"><img src="https://img.shields.io/static/v1?message=X&label=&color=000000&logo=x&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo"  /></a>
+  <a href="https://www.tiktok.com/@heisdadev"><img src="https://img.shields.io/static/v1?message=TikTok&label=&color=000000&logo=tiktok&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tiktok logo"  /></a>
 </div>
 
 ###
