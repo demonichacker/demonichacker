@@ -20,6 +20,19 @@
 
 <p align="left">I'm a passionate Full-Stack & Frontend Developer with over 4 years of experience crafting responsive web and mobile applications. I thrive on building seamless, user-centric digital experiences and am deeply fascinated by Web3 technologies and decentralized applications. Beyond coding, I'm constantly exploring AI innovations, creating stunning visuals with After Effects, and staying ahead in the dynamic tech landscape. Let's connect and build something amazing together! 🚀</p>
 
+<h3 align="left">🌟 Areas of Expertise</h3>
+
+- Frontend Development: JavaScript, React, React Native, Next.js, Tailwind CSS
+- Backend Development: Node.js, Express, MongoDB, Socket.io
+- Web3 Development & Smart Contract Integration
+- Real-Time Applications & WebSockets
+- UI/UX Design & Responsive Interfaces
+- Version Control & Collaboration (Git, GitHub)
+- Mobile Application Development
+- Video Editing & Motion Graphics (After Effects)
+- Cloud & Deployment (basic knowledge)
+- AI Tools Integration & Automation
+
 ###
 
 ## 🛠️ Technologies & Tools
